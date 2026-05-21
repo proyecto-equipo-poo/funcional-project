@@ -73,6 +73,7 @@ src/
 ---
 
 ## Evidencias
+<img width="1271" height="752" alt="image" src="https://github.com/user-attachments/assets/a3ec54c5-59a0-4128-9d95-09dc9a8c2a74" />
 
 
 
